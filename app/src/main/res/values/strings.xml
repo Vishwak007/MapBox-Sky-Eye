@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sky Eye</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoidmlzaHdhay0wMDciLCJhIjoiY2w3ajNwc283MG9uNDN2cnBvdHhxZWY4dyJ9.rGW-DxTGNj-H4ciNnBMxeA</string>
+</resources>
